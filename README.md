@@ -1,6 +1,6 @@
 # Building a Responsive Layout with CSS Flexbox 
 ## Problem Statement 
-Using CSS to create a website that looks good to as many users as possible can
+Using CSS to create a website that looks good to as many users as possible can 
 be a challenge. Your webpage may look great on the screen you designed it on,
 but if you open the page up on a small laptop, suddenly the page content is
 squeezed, spilling over, or pushed out of place. If you open that same page
